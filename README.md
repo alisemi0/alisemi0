@@ -14,10 +14,10 @@
   <a href="https://github.com/alisemi0">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="alisemikambuk@gmail.com">
+  <a href="mailto:alisemikambuk@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="[https://yukselinsaat.tech](https://www.alisemi.nett.to/)">
+  <a href="https://www.alisemi.nett.to/">
     <img src="https://img.shields.io/badge/Web_Site-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/alisemi">
