@@ -83,6 +83,3 @@ Bu grafikler GitHub üzerindeki kodlama yoğunluğumu gösterir.
 
 ---
 
-<div align="center">
-  <p>⭐️ Bu profil <b>Ali Semi</b> tarafından tasarlanmıştır. ⭐️</p>
-</div>
