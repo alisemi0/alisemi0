@@ -17,7 +17,7 @@
   <a href="mailto:alisemikambuk@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.alisemi.nett.to/">
+  <a href="https://www.alisemi.dev/">
     <img src="https://img.shields.io/badge/Web_Site-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/alisemi">
